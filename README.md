@@ -1,8 +1,9 @@
 # An-Overview-of-Wordmark-Registration
 In India, wordmark registration refers to legally protecting a unique textual representation of a brand name, logo, or slogan used in commerce.
 It falls under the purview of intellectual property law, specifically trademark registration, governed by the Controller General of Patents, Designs, and Trademarks under the Ministry of Commerce and Industry. A wordmark is a type of trademark that consists solely of words, letters, or numerals, without any graphical elements or designs. Registering a wordmark provides exclusive rights to the owner to use the mark in connection with specific goods or services. It prevents others from using similar marks that could create confusion among consumers.
-**
-The Eligibility for the Registration of Wordmark Online in India**
+
+
+**The Eligibility for the Registration of Wordmark Online in India**
 
 Distinctiveness: To qualify for registration, a wordmark must be distinctive and capable of distinguishing the goods or services of one entity from others in the market. It should not be generic, descriptive, or commonly used in the concerned industry.
 
