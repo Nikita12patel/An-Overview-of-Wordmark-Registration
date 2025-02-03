@@ -35,3 +35,6 @@ Power of Attorney: Sometimes required to authorize an agent or attorney to act o
 Proof of Claim of Priority (if applicable): In cases where priority is claimed based on an earlier filed application, supporting documents need to be provided.
 
 Trademark Search Report: Although not mandatory, providing a search report indicating the availability of the wordmark strengthens the application.
+
+
+To know more, visit at:https://www.registerkaro.in/wordmark-registration
